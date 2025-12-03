@@ -1,5 +1,7 @@
-body{
-  background-color : brown;
+.todo-card {
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/todolistbg.png");
+  background-size: cover;
+  height: 100vh;
 }
 .todo-card-header { 
   text-align: center; 
@@ -41,3 +43,4 @@ body{
   font-weight: 500; 
   text-decoration: underline; 
 }
+
